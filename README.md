@@ -15,9 +15,9 @@ Actualmente me desempeño como **Analista de Datos, Analista Funcional y Soporte
 ## Herramientas
 
 - **Datos y BI:** SQL, Power BI, Excel y Looker Studio (uso académico).
-- **Análisis:** Python, Pandas, NumPy, scikit-learn y Jupyter.
+- **Análisis:** Python, R, Pandas, NumPy, scikit-learn y Jupyter.
 - **Bases de datos:** MySQL, PostgreSQL y SQLite.
-- **Desarrollo:** React, TypeScript, Tauri y Rust.
+- **Desarrollo:** Python, Java.
 - **Flujo de trabajo:** Git y GitHub.
 
 ## Proyectos destacados
